@@ -23,4 +23,8 @@ Key Features:
         Encrypted API keys stored in _apiKeys mapping.
         Accessible via storeEncryptedAPIKey and getEncryptedAPIKey functions.
 
-    The pkNFT1155 contract implements a basic ERC1155 token with additional metadata and encryption features.
+    This contract creates the following functionalities:
+
+    Minting ERC-1155 tokens with associated metadata.
+    Toggling encryption on and off.
+    Storing and retrieving encrypted API keys for users.
