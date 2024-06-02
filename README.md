@@ -1,4 +1,4 @@
-# prompt knowledge erc-1155 data storage
+# prompt knowledge erc-1155 NFT data storage
     # Name: pkNFT1155
     Base Contracts: ERC1155, Ownable
     Compiler Version: 0.8.0
